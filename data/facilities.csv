@@ -119,17 +119,17 @@ facid,fac_type,capacity,fac_name,fac_address,city_state_zip,,owner,operator
 385275,NF,51,Sheridan Care Center,411 SE Sheridan Road,"Sheridan, OR 97378",,"Sheridan Care Center, LLC ","Dakavia Management, Corp."
 38A001,NF,58,Providence Child Center,830 NE 47th Ave,"Portland, OR 97213",,Providence Health & Services - Oregon,Providence Health & Services - Oregon
 38A026,NF,39,Marquis Autumn Hills Memory Care,6630 SW  Beav-Hillsdale Hwy,"Portland, OR 97225",,"Marquis Companies II, Inc.","Marquis Companies II, Inc."
-3.80E+19,NF,71,Rose Linn Care Center,2330 Debok,"West Linn, OR 97068",,"West Linn Care Center Operating Company, LLC","Benicia Senior Living, LLC"
-3.80E+25,NF,40,Columbia Care Center,33910 E Columbia Ave PO Box 1068,"Scappoose, OR 97056",,EEA Company,EEA Company
-3.80E+33,NF,46,Regency Care of Central Oregon,119 SE Wilson Ave,"Bend, OR 97702",,"BD Bend III, LLC","Regency Pacific Management, LLC"
-3.80E+41,NF,40,Blue Mountain Care Center,112 E Fifth St-PO Box 305,"Prairie City, OR 97869",,Blue Mountain Hospital District,Blue Mountain Hospital District
-3.80E+76,NF,76,Tierra Rose Care Center,4254 Weathers St NE,"Salem, OR 97301",,"CML, Inc.","CML, Inc."
-3.80E+127,NF,114,Healthcare at Foster Creek,6003 SE 136th,"Portland, OR 97236",,"St. Jude Operating Company, LLC","Benicia Senior Living, LLC"
-3.80E+158,NF,30,Rose City Nursing Home,34 NE 20th,"Portland, OR 97232",,"Geistlinger Enterprises, Inc.","Geistlinger Enterprises, Inc."
-3.80E+174,NF,40,Cornerstone Care Option,12640 SE Bush,"Portland, OR 97236",,"Cornerstone Care Option, Inc","Cornerstone Care Option, Inc."
-3.80E+175,NF,60,Village Manor,2060 NE 238th Drive,"Wood Village, OR 97060",,"V.M.C., Inc.","V.M.C., Inc."
-3.80E+189,NF,80,Gracelen Terrace Long Term Care Facility,10948 SE Boise St,"Portland, OR 97266",,"H & L Care Centers, Inc.","H & L Care Centers, Inc."
-3.80E+197,NF,41,Lawrence Convalescent Center,812 SE 48th Ave,"Portland, OR 97215",,Charles Lawrence,Charles Lawrence
+380E19,NF,71,Rose Linn Care Center,2330 Debok,"West Linn, OR 97068",,"West Linn Care Center Operating Company, LLC","Benicia Senior Living, LLC"
+380E25,NF,40,Columbia Care Center,33910 E Columbia Ave PO Box 1068,"Scappoose, OR 97056",,EEA Company,EEA Company
+380E33,NF,46,Regency Care of Central Oregon,119 SE Wilson Ave,"Bend, OR 97702",,"BD Bend III, LLC","Regency Pacific Management, LLC"
+380E41,NF,40,Blue Mountain Care Center,112 E Fifth St-PO Box 305,"Prairie City, OR 97869",,Blue Mountain Hospital District,Blue Mountain Hospital District
+380E76,NF,76,Tierra Rose Care Center,4254 Weathers St NE,"Salem, OR 97301",,"CML, Inc.","CML, Inc."
+380E127,NF,114,Healthcare at Foster Creek,6003 SE 136th,"Portland, OR 97236",,"St. Jude Operating Company, LLC","Benicia Senior Living, LLC"
+380E158,NF,30,Rose City Nursing Home,34 NE 20th,"Portland, OR 97232",,"Geistlinger Enterprises, Inc.","Geistlinger Enterprises, Inc."
+380E174,NF,40,Cornerstone Care Option,12640 SE Bush,"Portland, OR 97236",,"Cornerstone Care Option, Inc","Cornerstone Care Option, Inc."
+380E175,NF,60,Village Manor,2060 NE 238th Drive,"Wood Village, OR 97060",,"V.M.C., Inc.","V.M.C., Inc."
+380E189,NF,80,Gracelen Terrace Long Term Care Facility,10948 SE Boise St,"Portland, OR 97266",,"H & L Care Centers, Inc.","H & L Care Centers, Inc."
+380E197,NF,41,Lawrence Convalescent Center,812 SE 48th Ave,"Portland, OR 97215",,Charles Lawrence,Charles Lawrence
 38L300,NF,54,Marquis Tualatin Post Acute Rehab,19945 SW Boones Ferry,"Tualatin, Oregon, OR 97062",,"Marquis Companies II, Inc.","Marquis Companies I, Inc."
 38L400,NF,44,Mirabella Portland,3550 SW Bond Ave.,"Portland, OR 97239",,Mirabella at South Waterfront,"Pacific Retirement Services, Inc."
 38L501,NF,20,Village at Hillside,440 NW Hillside Parkway,"McMinnville, OR 97128",,"EmeriCare, Inc","EmeriCare, Inc."
@@ -642,4 +642,4 @@ facid,fac_type,capacity,fac_name,fac_address,city_state_zip,,owner,operator
 70M313,ALF,84,"Springs at Tanasbourne II, LLC",1950 NW 192nd Avenue,"Hillsboro, OR 97124",,"Springs at Tanasbourne II, LLC","The Springs Living, LLC"
 70M350,ALF,119,"Village at Keizer Ridge, The",1165 McGee Court,"Keizer, OR 97303",,"VKR, LLC","Keizer Care Properties, LLC"
 7MU215,ALF,126,St. Anthony Village,3560 SE 79th Avenue,"Portland, OR 97206",,St. Anthony Village Associates LP,SAGE
-0O0O0O,,57,Fake Facility,1234 Fake St,"Nowheresville, NY 05400",,Fake Company,"Not a Company, LLC"
+0O0O0O,,100,Fake Facility,1234 Fake St,"Nowheresville, NY 05400",,Fake Company,"Not a Company, LLC"
